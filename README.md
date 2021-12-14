@@ -1,6 +1,8 @@
 # dwm
 My suckless dwm config
 
+NOTE: You need to have fontawesome installed!
+
 # Modifying
 
 git clone and edit config.h
